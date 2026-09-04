@@ -1,0 +1,12 @@
+# Banco de Dados Local
+*.db
+*.sqlite3
+
+# Arquivos do Python
+__pycache__/
+*.pyc
+venv/
+
+# Configurações de IDE
+.vscode/
+.idea/
